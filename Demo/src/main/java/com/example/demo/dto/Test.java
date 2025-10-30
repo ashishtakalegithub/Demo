@@ -6,4 +6,5 @@ public class Test {
 	private String mobile;
 	private String address;
 	private String city;
+	
 }
